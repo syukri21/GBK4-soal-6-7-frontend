@@ -7,15 +7,15 @@ Bahasa menggunakan NodeJS, dan Mysql
 
 untuk menjalankan nya membutuhkan NodeJS dan XAMPP (dkk)
 
-
 NOTE 
 
 SOAL 1 - 5 LINK GITHUB : https://github.com/syukri21/GBK4-soal1-5.git
 
 SOAL 6 - 7 LINK GITHUB
-   frontend : https://github.com/syukri21/GBK4-soal-6-7-frontend.git
-   backend :https://github.com/syukri21/GBK4-soal-6-7-backend.git
+   1. frontend : https://github.com/syukri21/GBK4-soal-6-7-frontend.git
+  2. backend :https://github.com/syukri21/GBK4-soal-6-7-backend.git
 
+   _______________________________________
 
 
 1. Install Backend
@@ -23,10 +23,11 @@ SOAL 6 - 7 LINK GITHUB
 	
 	1. Download Backend Melalui Link berikut
    	   https://github.com/syukri21/GBK4-soal-6-7-backend.git
+	2. cd GBK4-soal-6-7-backend
 
-   	2. Jalankan Perintah : npm install
+   	3. Jalankan Perintah : npm install
 
-   	3. Jalankan Perintah : node server.js
+   	4. Jalankan Perintah : node server.js
 
    	5. Backend running pada http://localhost:8080/graphql
 
@@ -43,6 +44,8 @@ SOAL 6 - 7 LINK GITHUB
 
 	1. Download Frontend Melalui Link berikut
    	   https://github.com/syukri21/GBK4-soal-6-7-frontend.git
+	 
+	 2. cd GBK4-soal-6-7-frontend
 
    	2. Jalankan Perintah : npm install
 
